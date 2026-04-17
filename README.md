@@ -536,11 +536,6 @@ Please clear all notebook outputs before committing, and follow the [contributio
 - PhysioNet PTB-XL Dataset: https://physionet.org/content/ptb-xl/1.0.3/
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <div align="center">
